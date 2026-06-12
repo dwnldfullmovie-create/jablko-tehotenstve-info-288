@@ -1,0 +1,12 @@
+# Jablko tehotenstve info 288
+> Moderný magazín o varení so sídlom v meste Košice, Košický.
+
+## Obsah webu
+- [Hlavná stránka](/index.html): Prehľad publikácií.
+- [O nás](/about.html): Kto sme a čo robíme.
+- [Kontakt](/contact.html): Formulár a adresa.
+## Publikácie
+- [Ako zlepšiť tímovú produktivitu a komunikáciu](/ako-zlepsit-timovu-produktivitu-a-komunikaciu.html)
+- [Ako vybrať najlepší kontaktný gril pre domácnosť](/ako-vybrat-najlepsi-kontaktny-gril-pre-domacnost.html)
+- [Tipy na rýchlu večeru: Teplé pohostenie z grilu](/tipy-na-rychlu-veceru-teple-pohostenie-z-grilu.html)
+- [Ako správne dopĺňať vitamíny počas roka](/ako-spravne-doplnat-vitaminy-pocas-roka.html)
